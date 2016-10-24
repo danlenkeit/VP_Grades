@@ -1,0 +1,5 @@
+C:\Source\Grades\Grades.Tests\bin\Debug\Grades.Tests.dll
+C:\Source\Grades\Grades.Tests\bin\Debug\Grades.Tests.pdb
+C:\Source\Grades\Grades.Tests\obj\Debug\Grades.Tests.csprojResolveAssemblyReference.cache
+C:\Source\Grades\Grades.Tests\obj\Debug\Grades.Tests.dll
+C:\Source\Grades\Grades.Tests\obj\Debug\Grades.Tests.pdb

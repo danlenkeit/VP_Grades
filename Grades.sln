@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grades", "Grades\Grades.csproj", "{2BE0C070-F493-43F4-8C56-0B7E325B7FBC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grades.Tests", "Grades.Tests\Grades.Tests.csproj", "{F9D88871-7FDC-4A5D-AE70-138E71CBBA6D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BE0C070-F493-43F4-8C56-0B7E325B7FBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BE0C070-F493-43F4-8C56-0B7E325B7FBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BE0C070-F493-43F4-8C56-0B7E325B7FBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BE0C070-F493-43F4-8C56-0B7E325B7FBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9D88871-7FDC-4A5D-AE70-138E71CBBA6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9D88871-7FDC-4A5D-AE70-138E71CBBA6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9D88871-7FDC-4A5D-AE70-138E71CBBA6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9D88871-7FDC-4A5D-AE70-138E71CBBA6D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
