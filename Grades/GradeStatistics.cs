@@ -25,7 +25,7 @@ namespace Grades
                         result = "BRAVO MY BRO";
                             break;
                     case "B":
-                        result = "SIQ";
+                        result = "Siq";
                         break;
                     case "C":
                         result = "Aight";
