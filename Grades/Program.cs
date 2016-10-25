@@ -23,7 +23,7 @@ namespace Grades
             WriteResult("Average", stats.AverageGrade);
             WriteResult("Highest", stats.HighestGrade);
             WriteResult("Lowest", stats.LowestGrade);
-            WriteResult("Grade", stats.LetterGrade);
+            WriteResult(stats.Description, stats.LetterGrade);
 
             Console.WriteLine("Press any key to exit...");
             Console.ReadKey();
