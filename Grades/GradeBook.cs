@@ -37,8 +37,6 @@ namespace Grades
 
            stats.AverageGrade = sum / grades.Count;
 
-
-
            return stats;
         }
     }
